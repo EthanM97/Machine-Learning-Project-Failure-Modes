@@ -19,3 +19,5 @@
 - TensorFlow
 - Keras
 - OpenML
+
+The data is a synthetic set of heavy machinery with varying failure modes. It is almost entirely numerical.
