@@ -25,5 +25,3 @@ If you want to skip to the end result of my experiments, have a look at this not
 - TensorFlow
 - Keras
 - OpenML
-
-The data is a synthetic set of heavy machinery with varying failure modes. It is almost entirely numerical.
